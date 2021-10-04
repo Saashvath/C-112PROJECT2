@@ -1,0 +1,76 @@
+.case_study{
+
+    color: cadetblue;
+    font-size: 30px;
+
+}
+label{
+
+    font-size: 30px;
+    color:greenyellow
+}
+.maindiv{
+
+    background-color: indianred;
+    padding: 10px;
+    box-shadow: 7px 7px 18px lavender;
+
+}
+
+.maindiv label{
+
+    font-size: 30px;
+}
+
+#microsoftdiv{
+
+    border:4px lightseagreen solid;
+    height: 300px;
+    width :600px;
+}
+#microsoftdiv2{
+
+    border:4px lightseagreen solid;
+    height: 300px;
+    width :600px;
+}
+
+#mobilediv{
+
+    border : 4px moccasin solid;
+    height: 300px;
+    width :600px;
+}
+
+
+body{
+
+
+    background-color: maroon;
+}
+
+.microsoft{
+
+    font-size: 30px;
+    color: greenyellow;
+}
+
+.mobilenet{
+    font-size: 30px;
+    color: greenyellow;
+
+}
+
+#mobilediv2{
+
+    border : 4px moccasin solid;
+    height: 300px;
+    width :600px;
+}
+
+
+img{
+
+    width: 300px;
+    height: 300px;
+}
